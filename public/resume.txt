@@ -1,0 +1,38 @@
+DEMO — Software Engineer (4.7+ years)
+
+Summary
+Results-driven Software Engineer specializing in ASP.NET, C#, SQL Server, React.js, TypeScript, and AI usability. Passionate about building secure, scalable, and intelligent web applications.
+
+Core Skills
+- Frontend: React.js, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+- Backend: ASP.NET, C#, REST APIs
+- Database: SQL Server
+- Cloud & DevOps: Azure, AWS, Linux, Git, CI/CD, Agile/Scrum
+- AI & Automation: AI Integration, Prompt Engineering
+
+Experience
+Software Engineer — MindRuby Technology LLP (2021 – Present)
+- Built full-stack features using ASP.NET MVC, React, and SQL Server.
+- Implemented AI-assisted tooling and prompt workflows to accelerate development.
+- Optimized backend performance and improved data security and reliability.
+
+Projects
+- E-Commerce Platform (ASP.NET MVC, SQL Server)
+- Web Scraping Real Estate System (Python, HTML, CSS, JS)
+- Anime Music System (HTML, CSS, Bootstrap, JS)
+- Crawler-based Search Engine (Python)
+
+Education
+B.Tech (CSE) – SISTec, Bhopal (2017–2021, 8.10 CGPA)
+
+Certifications
+- Azure Fundamentals (AZ-900)
+- Python 3
+- AWS
+- Linux
+- RHCSA
+
+Contact
+Email: dempgmail.com
+Phone: +91-0000000000
+LinkedIn: linkedin.com/in/demo177
